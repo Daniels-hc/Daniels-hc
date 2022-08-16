@@ -40,14 +40,25 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
 <div>
   <h3><strong>Tools</strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&ensp;&ensp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" width="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
-  <img align="center" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" />
-  <img align="center" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&ensp;&ensp;
+</div>
+
+##
+
+<div>
+  <h3><strong>Estudando</strong></h3>
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&ensp;&ensp;
 </div>
 
 ##
