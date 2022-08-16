@@ -17,6 +17,15 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
 [![Gmail Badge](https://img.shields.io/badge/-daniels.dev7@gmail.com-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white&link=daniels.dev7@gmail.com)](daniels.dev7@gmail.com)
 
 
+
+<div align="center">
+  <a href="https://github.com/Daniels-hc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniels-hc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels-hc&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniels-hc&hide_border=false&theme=tokyonight&show_icons=true"/>
+</div>
+
+
 <!--
 **Daniels-hc/Daniels-hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
