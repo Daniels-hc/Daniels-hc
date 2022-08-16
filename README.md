@@ -24,6 +24,8 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
 
 ##
 
+ <img width="300" align="right" src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif">
+
 <div>
   <h3><strong>Minha Stack</strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&ensp;&ensp;
