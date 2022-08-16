@@ -41,6 +41,7 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
   <h3><strong>Tools</strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;&ensp;
+  <img align="center" width="40" src="https://raw.githubusercontent.com/Daniels-hc/Daniels-hc/main/assets/icons8-intellij-idea.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" />&ensp;&ensp;
