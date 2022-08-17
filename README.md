@@ -5,9 +5,11 @@
     />
 </div>
 
-## Daniel Silva
+<h1>Olá Visitante. Eu sou Daniel.<img width="60" src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif"/>
+  <br />
+  Seja bem-vindo!
+</h1>
 
-## Olá Visitante 👋
 
 Sou um ex publicitário e designer formado que agora está estudando e seguindo sua verdadeira paixão que é trabalhar com tecnologia e desenvolvimento de software. 
 Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software.:computer: 
@@ -36,7 +38,7 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
 
 <div>
   <h3><strong>Minha Stack</strong></h3>
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&ensp;&ensp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&ensp;&ensp;
