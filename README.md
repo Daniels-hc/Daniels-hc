@@ -24,8 +24,10 @@ Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software
 <div>
   <h3><strong>:e-mail: Para entrar em contato comigo</strong></h3>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-63ab81203/)](https://www.linkedin.com/in/daniel-silva-63ab81203/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-daniels.dev7@gmail.com-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white&link=daniels.dev7@gmail.com)](daniels.dev7@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-63ab81203/)](https://www.linkedin.com/in/daniel-silva-63ab81203/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-daniels.dev7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=daniels.dev7@gmail.com)](daniels.dev7@gmail.com)
+ <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-63ab81203/)](https://www.linkedin.com/in/daniel-silva-63ab81203/)&nbsp; -->
+ <!-- [![Gmail Badge](https://img.shields.io/badge/-daniels.dev7@gmail.com-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white&link=daniels.dev7@gmail.com)](daniels.dev7@gmail.com) -->
 </div>
 
 ##
