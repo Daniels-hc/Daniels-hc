@@ -12,7 +12,7 @@
 
 
 Sou um ex publicitário e designer formado que agora está estudando e seguindo sua verdadeira paixão que é trabalhar com tecnologia e desenvolvimento de software. 
-Iniciando a nova carreira, como desenvolvedor e um futuro engenheiro de software.:computer: 
+Estou cursando o bacharelado em sistemas de informação. Já iniciei minha carreira como desenvolvedor, e em breve serei um engenheiro de software.:computer: 
 
 🖥️ &nbsp; Atualmente estagio com suporte tecnico, mas já estou procurando o primeiro estágio como desenvolvedor.      
 :coffee: &nbsp; Tenho conhecimento em back-end com Java e estudo o fremework spring boot.            
