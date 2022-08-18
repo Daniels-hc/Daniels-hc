@@ -14,12 +14,15 @@
 Sou um ex publicitário e designer formado que agora está estudando e seguindo sua verdadeira paixão que é trabalhar com tecnologia e desenvolvimento de software. 
 Estou cursando o bacharelado em sistemas de informação. Já iniciei minha carreira como desenvolvedor, e em breve serei um engenheiro de software.:computer: 
 
-🖥️ &nbsp; Atualmente estagio com suporte tecnico, mas já estou procurando o primeiro estágio como desenvolvedor.      
-:coffee: &nbsp; Tenho conhecimento em back-end com Java e estudo o fremework spring boot.            
-⚛️ &nbsp; Também tenho me aventurado com front-end com typescript reactJS e reactNative. :iphone:        
-😁 &nbsp; Já tentando consildar minha stack.           
-👨‍💻 &nbsp; Busco contribuir para a área de tecnologia assim como também a comunidade, com as tecnologias que tenho conhecimento.   
-🖖 &nbsp; Sobre mim: Apaixonado por tecnolgias, games, cultura pop, rock 'n roll 🎸    
+- 🖥️ &nbsp; Atualmente já trabalho como desenvolvedor de sotware na Boavista Tecnologia.       
+- 🔭 &nbsp; Atua em um projeto utilizando Java e as tecnologias do ecossistema do spring, com destaque para o framework   
+             spring batch para processamento de dados em lote.           
+- 🌱 &nbsp; Estou estudando tecnologias como javascript, typescript, angular, bootstrap e python. Também tenho aprofundado em     
+             design patterns, SOLID, clean code, clean architecture e TDD.                    
+- 🚀 &nbsp; Já comecei meus estudos em inglês para finalmente alcançar a fluência.    
+- 👨‍💻 &nbsp; Busco contribuir para a área de tecnologia assim como também a comunidade, com as tecnologias que tenho conhecimento.   
+- ⚡ &nbsp; Sobre mim: 👨‍💻 Apaixonado por tecnolgias. 📺 Amo assistir filmes, series e animes. 🎼 Estudar música. 💪 Exercícios fisicos. 
+              🎮 Jogar games. E muito rock 'n roll!! 🎸    
 
 ##
 
