@@ -12,7 +12,8 @@
 
 
 Sou um ex publicitário e designer formado que agora está estudando e seguindo sua verdadeira paixão que é trabalhar com tecnologia e desenvolvimento de software. 
-Estou cursando o bacharelado em sistemas de informação. Já iniciei minha carreira como desenvolvedor, e em breve serei um engenheiro de software.:computer: 
+Estou cursando o bacharelado em sistemas de informação. Sou desenvolvedor Java e utilizo o ecossistema do spring framework, e sempre busco estudar novas tecnologias.
+Atualmente já trabalho na área. Em breve um engenheiro de software.:computer: 
 
 - 🖥️ &nbsp; Atualmente já trabalho como desenvolvedor de sotware na Boavista Tecnologia.       
 - 🔭 &nbsp; Atua em um projeto utilizando Java e as tecnologias do ecossistema do spring, com destaque para o framework   
@@ -20,8 +21,8 @@ Estou cursando o bacharelado em sistemas de informação. Já iniciei minha carr
 - 🌱 &nbsp; Estou estudando tecnologias como javascript, typescript, angular, bootstrap e python. Também tenho aprofundado em     
              design patterns, SOLID, clean code, clean architecture e TDD.                    
 - 🚀 &nbsp; Já comecei meus estudos em inglês para finalmente alcançar a fluência.    
-- 👨‍💻 &nbsp; Busco contribuir para a área de tecnologia assim como também a comunidade, com as tecnologias que tenho conhecimento.   
-- ⚡ &nbsp; Sobre mim: 👨‍💻 Apaixonado por tecnolgias. 📺 Amo assistir filmes, series e animes. 🎼 Estudar música. 💪 Exercícios fisicos. 
+- 👨‍💻 &nbsp; Busco contribuir para a área de tecnologia assim como também a comunidade, com o conhecimento que tenho.     
+- ⚡ &nbsp; Sobre mim: 👨‍💻 Apaixonado por tecnologias. 📺 Amo assistir filmes, series e animes. 🎼 Estudar música. 💪 Exercícios fisicos. 
               🎮 Jogar games. E muito rock 'n roll!! 🎸    
 
 ##
