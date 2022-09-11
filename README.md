@@ -28,7 +28,7 @@ Atualmente já trabalho na área. Em breve um engenheiro de software.:computer:
 ##
 
 <div>
-  <h3><strong>:e-mail: Para entrar em contato comigo</strong></h3>
+  <h3><strong> :e-mail: Para entrar em contato comigo </strong></h3>
   
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-63ab81203/)](https://www.linkedin.com/in/daniel-silva-63ab81203/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-daniels.dev7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=daniels.dev7@gmail.com)](daniels.dev7@gmail.com)
@@ -41,7 +41,7 @@ Atualmente já trabalho na área. Em breve um engenheiro de software.:computer:
  <img width="300" align="right" src="https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif">
 
 <div>
-  <h3><strong>Minha Stack</strong></h3>
+  <h3><strong> 👨🏻‍💻 Minha Stack </strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&ensp;&ensp;
@@ -54,7 +54,7 @@ Atualmente já trabalho na área. Em breve um engenheiro de software.:computer:
 ##
 
 <div>
-  <h3><strong>Tools</strong></h3>
+  <h3><strong> 🛠️ Tools </strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://raw.githubusercontent.com/Daniels-hc/Daniels-hc/main/assets/icons8-intellij-idea.svg" />&ensp;&ensp;
@@ -71,7 +71,7 @@ Atualmente já trabalho na área. Em breve um engenheiro de software.:computer:
 ##
 
 <div>
-  <h3><strong>Estudando</strong></h3>
+  <h3><strong> 💡 Estudando </strong></h3>
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&ensp;&ensp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&ensp;&ensp;
